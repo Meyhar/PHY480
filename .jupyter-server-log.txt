@@ -70,3 +70,7 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2024-01-20 07:07:33.250 ServerApp] Kernel shutdown: 5efc3cd1-bfcc-4d2b-ae8a-a5cf11578f08
 [W 2024-01-20 07:07:33.910 ServerApp] delete /Homework1_Meyhar_Dudeja.ipynb
 [W 2024-01-20 07:09:07.367 ServerApp] delete /PHY480
+[I 2024-01-20 07:17:33.084 ServerApp] Uploading file to /Homework1_STUDENTS.ipynb
+[W 2024-01-20 07:17:36.443 ServerApp] Notebook Homework1_STUDENTS.ipynb is not trusted
+[I 2024-01-20 07:17:37.649 ServerApp] Kernel started: 28441171-2125-499d-8b12-b547780cbacd
+[W 2024-01-20 07:17:38.348 ServerApp] Could not destroy zmq context for <jupyter_client.asynchronous.client.AsyncKernelClient object at 0x7fe1386a6740>
