@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/meyhar-phy480-x5eumhy3/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 14,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "C9GuK36QROSuHj7pmJvSCQ",
+  "url": "http://jupyter-meyhar-2dphy480-2dx5eumhy3:8888/user/meyhar-phy480-x5eumhy3/",
+  "version": "1.24.0"
+}
